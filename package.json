@@ -16,5 +16,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://basecoplan.github.io/item-list-example"
+  "homepage": "https://finepix08.github.io/item-list-react"
 }
